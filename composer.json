@@ -4,7 +4,7 @@
   "keywords": ["wordpress", "plugin", "acf", "address"],
   "homepage": "https://github.com/strickdj/ACF-Address-Test-Theme",
   "license": "GPL",
-  "type": "wordpress-plugin",
+  "type": "wordpress-theme",
   "repositories": [
     {
       "type": "composer",
